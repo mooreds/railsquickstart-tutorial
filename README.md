@@ -1,6 +1,5 @@
 # Tutorial: FusionAuth rails quickstart complete application
 
-Original project: https://github.com/FusionAuth/fusionauth-quickstart-ruby-on-rails-web/
 
 This is a simple web application built with Ruby on Rails.
 Its main purpose is to demonstrate user **authentication** using an external service (*FusionAuth* via OpenID Connect).
@@ -8,7 +7,8 @@ Unauthenticated users see a home page, while logged-in users can access a featur
 The application uses standard Rails components like **Request Routing** to map URLs to **Controller Actions**, and an **Application Configuration** system manages settings like the FusionAuth connection details.
 
 
-**Source Repository:** [None](None)
+**Source Repository:** [https://github.com/FusionAuth/fusionauth-quickstart-ruby-on-rails-web/](https://github.com/FusionAuth/fusionauth-quickstart-ruby-on-rails-web/)
+
 
 ```mermaid
 flowchart TD
