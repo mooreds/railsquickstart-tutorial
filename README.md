@@ -1,4 +1,6 @@
-# Tutorial: complete-app
+# Tutorial: FusionAuth rails quickstart complete application
+
+Original project: https://github.com/FusionAuth/fusionauth-quickstart-ruby-on-rails-web/
 
 This is a simple web application built with Ruby on Rails.
 Its main purpose is to demonstrate user **authentication** using an external service (*FusionAuth* via OpenID Connect).
